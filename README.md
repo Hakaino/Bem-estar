@@ -1,2 +1,2 @@
 # Bem-estar
-A website that I made while learning html.
+This is a small website made as a "hello world" to learning html.
